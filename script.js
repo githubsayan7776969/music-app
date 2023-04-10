@@ -19,12 +19,12 @@ const songs = [
   // },
     {
     name: 'going-top',
-    displayName: 'going top',
+    displayName: 'Going Top',
     artist: 'Nbhd Nick',
   },
   {
     name: 'we-come-thru',
-    displayName: 'we comee through',
+    displayName: 'We Come Through',
     artist: 'Xavy Rusan',
   },
   {
@@ -49,7 +49,7 @@ const songs = [
   },
   {
     name: 'money',
-    displayName: 'money',
+    displayName: 'Money',
     artist: 'SoulProdMusic',
   },
   {
