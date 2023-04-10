@@ -29,7 +29,7 @@ const songs = [
   },
   {
     name: 'the-legends',
-    displayName: 'the legends',
+    displayName: 'The Legends',
     artist: 'Xavy Rusan',
   },
   {
